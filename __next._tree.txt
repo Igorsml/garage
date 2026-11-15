@@ -1,4 +1,4 @@
-:HL["/garage/_next/static/css/ad28863bab36b13f.css","style"]
-:HL["/garage/images/logo.webp","image"]
+:HL["/garage/_next/static/css/867baa28bc449592.css","style"]
+:HL["/garage/images/logo.jpg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"GbqfUwRsDnm4ti8dPH4QO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"1Cdtx4pAUtysiFGWeu7yg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
