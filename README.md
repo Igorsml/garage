@@ -1,9 +1,7 @@
 # Кошачий приют «Гараж»
 
-Статическая версия сайта для GitHub Pages.
-
 Сайт: https://igorsml.github.io/garage/
 
-Публикация: Settings → Pages → Deploy from a branch → main → / (root).
+Статическая сборка Next.js для GitHub Pages. Исходная версия Next.js + Payload хранится отдельно; админка требует серверного хостинга.
 
-Исходный проект Next.js + Payload хранится отдельно. Эта сборка содержит только публичный сайт; админка Payload требует серверного хостинга.
+Публикация: Settings → Pages → Deploy from a branch → main → / (root).
