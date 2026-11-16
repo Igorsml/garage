@@ -1,4 +1,4 @@
 :HL["/garage/_next/static/css/a0b61135e8e646d6.css","style"]
-:HL["/garage/images/logo.jpg","image"]
+:HL["/garage/images/logo-v2.jpg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"6iIHPRo_DFvz_837u6XvO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aP9u3oSJU3H2M1vY8qGYL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
